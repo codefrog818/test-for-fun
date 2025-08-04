@@ -1,0 +1,36 @@
+📅 2025-08-04
+☁️ Weather Beijing: Light rain shower +27°C
+
+📈 Market:
+S&P500: 6329.94 (+1.47%)
+Bitcoin: 114674.00 USD (+0.41%)
+
+
+📊 FX (USD base):
+USD/CNY: 7.1762
+USD/EUR: 0.8647
+USD/GBP: 0.7526
+USD/JPY: 147.3800
+
+📉 US Interest Rates:
+SOFR: 4.34% (as of 2025-08-01)
+EFFR: 4.33% (as of 2025-08-01)
+
+🌐 Macro Radar:
+US CPI (YoY): 321.50 (as of 2025-06-01)
+Core CPI: 327.60 (as of 2025-06-01)
+Fed Target Upper: 4.50 (as of 2025-08-04)
+10Y Yield: 4.39 (as of 2025-07-01)
+2Y Yield: 3.88 (as of 2025-07-01)
+Yield Spread: 0.54 (as of 2025-08-01)
+Unemployment: 4.20 (as of 2025-07-01)
+Retail Sales: 720106.00 (as of 2025-06-01)
+GDP YoY: 3.00 (as of 2025-04-01)
+Japan CPI: 101.30 (as of 2021-06-01)
+ECB Rate fetch error
+Euro GDP: 2867652.20 (as of 2025-04-01)
+
+📰 Macro Market News:
+- Crypto market’s weekly winners and losers – M, CFX, BONK, FARTCOIN - AMBCrypto
+- Boeing Defense Union Poised for Its First Strike Since 1996 - Bloomberg
+- The Life and Legacy of Beloved Educator Miriam Mintz - COLlive

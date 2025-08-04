@@ -1,30 +1,36 @@
 📅 2025-08-01
-☁️ Weather Beijing: Sunny +32°C
+☁️ Weather Beijing: Weather fetch error
 
 📈 Market:
-S&P500: 6339.39 (-0.37%)
-Bitcoin: 115224.00 USD (-2.61%)
+S&P500: 6226.13 (-1.79%)
+Bitcoin: 114591.00 USD (-2.88%)
+
 
 📊 FX (USD base):
-USD/CNY: 7.1947
-USD/EUR: 0.8737
-USD/GBP: 0.7556
-USD/JPY: 149.8500
+USD/CNY: 7.2118
+USD/EUR: 0.8769
+USD/GBP: 0.7598
+USD/JPY: 150.4800
 
 📉 US Interest Rates:
-SOFR: 4.32% (as of 2025-07-30)
-EFFR: 4.33% (as of 2025-07-30)
+SOFR: 4.39% (as of 2025-07-31)
+EFFR: 4.33% (as of 2025-07-31)
 
 🌐 Macro Radar:
 US CPI (YoY): 321.50 (as of 2025-06-01)
 Core CPI: 327.60 (as of 2025-06-01)
-Fed Target Upper: 4.50 (as of 2025-07-31)
+Fed Target Upper: 4.50 (as of 2025-08-01)
 10Y Yield: 4.38 (as of 2025-06-01)
 2Y Yield: 3.89 (as of 2025-06-01)
 Yield Spread: 0.43 (as of 2025-07-31)
-Unemployment: 4.10 (as of 2025-06-01)
+Unemployment: 4.20 (as of 2025-07-01)
 Retail Sales: 720106.00 (as of 2025-06-01)
 GDP YoY: 3.00 (as of 2025-04-01)
 Japan CPI: 101.30 (as of 2021-06-01)
-ECB Rate: Error
+ECB Rate fetch error
 Euro GDP: 2867652.20 (as of 2025-04-01)
+
+📰 Macro Market News:
+- Turbulence forces Delta flight to land and sends 25 people to hospitals, airline says - AP News
+- Figma Poised to Open Trading at More Than Triple Its IPO Price - Yahoo Finance
+- Best Buy, Ikea test new kitchen concept in U.S. stores - CNBC
